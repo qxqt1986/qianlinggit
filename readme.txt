@@ -4,3 +4,4 @@ Git is free software.123
 源库里面改了。。。
 创建分支非常快
 master和xiaoming都是老大
+bug1已经修改好了
